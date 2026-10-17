@@ -329,9 +329,9 @@
     },
     {
       "id": "tbcode",
-      "name": "TARGET BOARD",
+      "name": "TARGET BOARD 2",
       "image": "https://codexstudys.vercel.app/img/tb.png",
-      "study_link": "https://tb-codexstudy.vercel.app/",
+      "study_link": "https://ais-pre-2nf54bq7hle7qcwczxouzs-561745921472.asia-east1.run.app/",
       "download_link": "https://tb-codexstudy.vercel.app/",
       "tag": "New",
       "color": "#6366F1"
@@ -340,7 +340,7 @@
       "id": "officer",
       "name": "OFFICER ACADEMY",
       "image": "https://codexstudys.vercel.app/img/officer.png",
-      "study_link": "https://officer-codexstudy.vercel.app/",
+      "study_link": " ",
       "download_link": "https://officer-codexstudy.vercel.app/",
       "tag": "New",
       "color": "#6366F1"
@@ -349,7 +349,7 @@
       "id": "aash",
       "name": "AASH Sk Jha",
       "image": "https://codexstudys.vercel.app/img/aash.png",
-      "study_link": "https://aash-codexstudy.vercel.app/",
+      "study_link": " ",
       "download_link": "https://aash-codexstudy.vercel.app/",
       "tag": "New",
       "color": "#6366F1"
@@ -358,7 +358,7 @@
       "id": "sm",
       "name": "Science Magnets",
       "image": "https://codexstudys.vercel.app/img/sm.png",
-      "study_link": "https://sm-codexstudy.vercel.app/",
+      "study_link": " ",
       "download_link": "https://sm-codexstudy.vercel.app/",
       "tag": "New",
       "color": "#6366F1"
@@ -367,7 +367,7 @@
       "id": "kd",
       "name": "KD Live",
       "image": "https://codexstudys.vercel.app/img/kd.png",
-      "study_link": "https://kd-codexstudy.vercel.app/",
+      "study_link": " ",
       "download_link": "https://kd-codexstudy.vercel.app/",
       "tag": "New",
       "color": "#6366F1"
@@ -376,7 +376,7 @@
       "id": "mm",
       "name": "Maths Mania",
       "image": "https://codexstudys.vercel.app/img/mm.png",
-      "study_link": "https://mm-codexstudy.vercel.app/",
+      "study_link": " ",
       "download_link": "https://mm-codexstudy.vercel.app/",
       "tag": "New",
       "color": "#6366F1"
