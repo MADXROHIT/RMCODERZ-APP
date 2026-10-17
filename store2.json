@@ -147,15 +147,6 @@
       "color": "#6366F1"
     },
     {
-      "id": "testbook",
-      "name": "TESTBOOK",
-      "image": "https://play-lh.googleusercontent.com/oZKb4MS_3fA2URqyMW2QvWqm7Bhjikz_L8002o4VLpIfVUmcVXZUa1OI0r5QS_8b3XA=w240-h480-rw",
-      "study_link": "https://testbook.examsaathi.site/",
-      "download_link": "http://Sdvmock.page.gd",
-      "tag": "Test❤‍🔥",
-      "color": "#EF4444"
-    },
-    {
       "id": "testbooktest",
       "name": "TESTBOOK TEST",
       "image": "https://play-lh.googleusercontent.com/oZKb4MS_3fA2URqyMW2QvWqm7Bhjikz_L8002o4VLpIfVUmcVXZUa1OI0r5QS_8b3XA=w240-h480-rw",
@@ -205,15 +196,6 @@
       "name": "NEXT TOPPER",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IXk64isT48glTv-5DobS3YZdAsGHOQV9J3q8IPy8i4kKhyWAcgRWLAEw&s=10",
       "study_link": "https://spidytopper.vercel.app/",
-      "download_link": "https://backbencherz.netlify.app/",
-      "tag": "Popular",
-      "color": "#008000"
-    },
-    {
-      "id": "nexttopperweb",
-      "name": "NEXT TOPPER",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IXk64isT48glTv-5DobS3YZdAsGHOQV9J3q8IPy8i4kKhyWAcgRWLAEw&s=10",
-      "study_link": "https://backbencherz.netlify.app/",
       "download_link": "https://backbencherz.netlify.app/",
       "tag": "Popular",
       "color": "#008000"
